@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="426cc4ba-5007-4076-b217-a22ca863145f" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/HoangPM$keras_ctc_test.coverage" NAME="keras_ctc_test Coverage Results" MODIFIED="1528942735393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JAP-OCR-NN/models" />
+    <SUITE FILE_PATH="coverage/HoangPM$abcdsdjkln.coverage" NAME="abcdsdjkln Coverage Results" MODIFIED="1528769730653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JAP-OCR-NN" />
+    <SUITE FILE_PATH="coverage/HoangPM$kerasCNN.coverage" NAME="kerasCNN Coverage Results" MODIFIED="1528774433017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JAP-OCR-NN/models" />
+    <SUITE FILE_PATH="coverage/HoangPM$py_test_in_test_keras_ctc_py.coverage" NAME="py.test in test_keras_ctc.py Coverage Results" MODIFIED="1528941567401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JAP-OCR-NN/models" />
+    <SUITE FILE_PATH="coverage/HoangPM$cropimage.coverage" NAME="cropimage Coverage Results" MODIFIED="1528867079428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JAP-OCR-NN/models" />
+    <SUITE FILE_PATH="coverage/HoangPM$predict.coverage" NAME="predict Coverage Results" MODIFIED="1529382588792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JAP-OCR-NN/models" />
+    <SUITE FILE_PATH="coverage/HoangPM$make_sequence.coverage" NAME="make_sequence Coverage Results" MODIFIED="1528864251335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JAP-OCR-NN/data" />
+    <SUITE FILE_PATH="coverage/HoangPM$kerasLSTMCTC.coverage" NAME="kerasLSTMCTC Coverage Results" MODIFIED="1528854164648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JAP-OCR-NN/models" />
+    <SUITE FILE_PATH="coverage/HoangPM$keras_all_in_one.coverage" NAME="keras_all_in_one Coverage Results" MODIFIED="1529389467065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JAP-OCR-NN/models" />
+    <SUITE FILE_PATH="coverage/HoangPM$test.coverage" NAME="test Coverage Results" MODIFIED="1528871505259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JAP-OCR-NN/models" />
+    <SUITE FILE_PATH="coverage/HoangPM$cropimage2.coverage" NAME="cropimage2 Coverage Results" MODIFIED="1529294444634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JAP-OCR-NN/models" />
+    <SUITE FILE_PATH="coverage/HoangPM$keras_OCR.coverage" NAME="keras_OCR Coverage Results" MODIFIED="1529383024010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JAP-OCR-NN/models" />
+    <SUITE FILE_PATH="coverage/HoangPM$py_test_in_test_pickle_py.coverage" NAME="py.test in test_pickle.py Coverage Results" MODIFIED="1528792343292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JAP-OCR-NN/models" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="cropimage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/models/cropimage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="40" column="39" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="keras_all_in_one.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/models/keras_all_in_one.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="predict2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/models/predict2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="79" selection-start-line="4" selection-start-column="79" selection-end-line="4" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="keras_OCR.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/models/keras_OCR.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="58" column="9" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="predict.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/models/predict.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="975">
+              <caret line="71" column="1" selection-start-line="71" selection-start-column="1" selection-end-line="71" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cropimage2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/models/cropimage2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>init</find>
+      <find>71</find>
+      <find>48</find>
+      <find>28</find>
+      <find>32</find>
+      <find>58</find>
+      <find>Sequence_1.png</find>
+      <find>Sequence_1</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/JAP-OCR-NN/abcdsdjkln.py" />
+        <option value="$PROJECT_DIR$/JAP-OCR-NN/models/abcdsdjkln.py" />
+        <option value="$PROJECT_DIR$/JAP-OCR-NN/models/kerasCNN.py" />
+        <option value="$PROJECT_DIR$/JAP-OCR-NN/models/test_pickle.py" />
+        <option value="$PROJECT_DIR$/JAP-OCR-NN/models/testfile.txt" />
+        <option value="$PROJECT_DIR$/JAP-OCR-NN/models/cropimage.py" />
+        <option value="$PROJECT_DIR$/JAP-OCR-NN/data/make_sequence.py" />
+        <option value="$PROJECT_DIR$/JAP-OCR-NN/models/test.py" />
+        <option value="$PROJECT_DIR$/JAP-OCR-NN/models/test_keras_ctc.py" />
+        <option value="$PROJECT_DIR$/JAP-OCR-NN/models/keras_OCR.py" />
+        <option value="$PROJECT_DIR$/JAP-OCR-NN/models/keras_ctc_test.py" />
+        <option value="$PROJECT_DIR$/JAP-OCR-NN/models/keras_ctc_test.ipynb" />
+        <option value="$PROJECT_DIR$/JAP-OCR-NN/models/cropimage2.py" />
+        <option value="$PROJECT_DIR$/JAP-OCR-NN/models/predict.py" />
+        <option value="$PROJECT_DIR$/JAP-OCR-NN/models/kerasLSTMCTC.py" />
+        <option value="$PROJECT_DIR$/JAP-OCR-NN/models/predict2.py" />
+        <option value="$PROJECT_DIR$/JAP-OCR-NN/models/keras_all_in_one.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="452" />
+    <option name="y" value="28" />
+    <option name="width" value="960" />
+    <option name="height" value="1018" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HoangPM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HoangPM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HoangPM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HoangPM" type="462c0819:PsiDirectoryNode" />
+              <item name="JAP-OCR" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HoangPM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HoangPM" type="462c0819:PsiDirectoryNode" />
+              <item name="JAP-OCR-NN" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HoangPM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HoangPM" type="462c0819:PsiDirectoryNode" />
+              <item name="JAP-OCR-NN" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HoangPM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/untitled1" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JAP-OCR-NN/models" />
+      <recent name="$PROJECT_DIR$/JAP-OCR-NN/models/train" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.keras_all_in_one">
+    <configuration name="cropimage2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HoangPM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JAP-OCR-NN/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JAP-OCR-NN/models/cropimage2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="keras_OCR" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HoangPM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JAP-OCR-NN/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JAP-OCR-NN/models/keras_OCR.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="keras_all_in_one" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HoangPM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JAP-OCR-NN/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JAP-OCR-NN/models/keras_all_in_one.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="keras_ctc_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HoangPM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JAP-OCR-NN/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JAP-OCR-NN/models/keras_ctc_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="predict" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HoangPM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JAP-OCR-NN/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JAP-OCR-NN/models/predict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.keras_ctc_test" />
+      <item itemvalue="Python.cropimage2" />
+      <item itemvalue="Python.keras_all_in_one" />
+      <item itemvalue="Python.predict" />
+      <item itemvalue="Python.keras_OCR" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.keras_all_in_one" />
+        <item itemvalue="Python.keras_OCR" />
+        <item itemvalue="Python.predict" />
+        <item itemvalue="Python.cropimage2" />
+        <item itemvalue="Python.keras_ctc_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="426cc4ba-5007-4076-b217-a22ca863145f" name="Default" comment="" />
+      <created>1528369320520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528369320520</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="py_test_in_test_pickle_py - 2018.06.12 at 15h 31m 06s.xml">
+      <configuration name="py.test in test_pickle.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_pickle_py - 2018.06.12 at 15h 32m 24s.xml">
+      <configuration name="py.test in test_pickle.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_keras_ctc_py - 2018.06.14 at 08h 59m 35s.xml">
+      <configuration name="py.test in test_keras_ctc.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1920" height="1019" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32960895" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32960895" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42346367" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32960895" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.23159018" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32977587" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32977587" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32960895" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42346367" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.2289221" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32960895" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32960895" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32977587" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32960895" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32977587" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/data/Seq_data/Sequence_35.png" />
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/data/Seq_data/Sequence_23.png" />
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/data/Seq_data/Sequence_21.png" />
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/data/Seq_data/Sequence_18.png" />
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/data/Seq_data/Sequence_12.png" />
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/data/Seq_data/Sequence_36.png" />
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/data/Seq_data/Sequence_6.png" />
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/data/Seq_data/Sequence_4.png" />
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/data/Seq_data/Sequence_3.png" />
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/data/Seq_data/Sequence_15.png" />
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/data/Seq_data/Sequence_17.png" />
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/data/Seq_data/Sequence_10.png" />
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/data/Seq_data/Sequence_5.png" />
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/models/kerasOCR" />
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/models/test_pickle.py" />
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/models/abcdsdjkln.py" />
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/models/sequences_features.txt" />
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/data/ETL_data/ETL8_9302/ETL8_1_48_0_9302.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/data/ETL_data/ETL8_9302/ETL8_1_48_13_9302.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/data/ETL_data/ETL8_9282/ETL8_1_28_0_9282.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/data/ETL_data/ETL8_9286/ETL7_1_18_18_195.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/data/ETL_data/ETL8_9312/ETL7_1_32_31_209.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/data/Seq_data/Sequence_1.png" />
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/models/testfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="65" selection-start-column="65" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/keras/backend/tensorflow_backend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3612">
+          <caret line="4153" selection-end-line="4153" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/data/make_sequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/models/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="6" selection-start-line="6" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/data/Seq_data/Sequence_33.png" />
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/models/sequences_imgs.txt" />
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/data/read_bin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/models/sequences.txt" />
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/data/sequences_imgs.txt" />
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/models/test1.txt" />
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/models/test2.txt" />
+    <entry file="file:///usr/lib/python2.7/pickle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="1379" selection-start-line="1379" selection-end-line="1379" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/models/np_arr_img.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="-1575" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/models/np_arr_labels.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/models/kerasCNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="47" column="61" selection-start-line="47" selection-start-column="54" selection-end-line="47" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/models/keras_OCR.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/models/keras_ctc_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="47" column="68" lean-forward="true" selection-start-line="47" selection-start-column="68" selection-end-line="47" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/data/Seq_data/Sequence_70346.png" />
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/data/Seq_data/Sequence_70347.png" />
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/data/Seq_data/Sequence_70348.png" />
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/models/keras_ctc_test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/models/kerasLSTMCTC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="36" column="57" lean-forward="true" selection-start-line="36" selection-start-column="57" selection-end-line="36" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/models/cropimage2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/models/keras_OCR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="58" column="9" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/models/predict2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="79" selection-start-line="4" selection-start-column="79" selection-end-line="4" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/models/predict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="71" column="1" selection-start-line="71" selection-start-column="1" selection-end-line="71" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/models/cropimage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="40" column="39" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAP-OCR-NN/models/keras_all_in_one.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
